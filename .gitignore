@@ -1,0 +1,12 @@
+.vscode/
+.DS_Store
+.idea/
+
+source
+test
+*.m
+fr_frames/
+fr_videos/
+log/
+*.pyc
+
