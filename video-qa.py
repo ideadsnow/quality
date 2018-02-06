@@ -10,7 +10,7 @@ import logging
 import cv2
 import json
 import math
-import num_detector2 as detector
+import num_detector as detector
 from configs import Settings
 
 
